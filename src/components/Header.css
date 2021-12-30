@@ -1,0 +1,9 @@
+.mainNav {
+  width: 100%;
+  background-color: #141d38;
+}
+.mainNav img {
+  width: 12rem;
+  padding: 1rem 0;
+  margin: 0 auto;
+}
